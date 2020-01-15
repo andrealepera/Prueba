@@ -1,5 +1,5 @@
 #EJERCICIO4
-x=c(rep(1,10),rep(1.5,15),rep(2,20),rep(3,25),rep(3.5,25),4)
+x=c(rep(2,10),rep(1.5,15),rep(2,20),rep(3,25),rep(3.5,25),4)
 boxplot(x,horizontal = T)
 
 y=0.252*x-10
